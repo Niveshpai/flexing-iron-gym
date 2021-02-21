@@ -1,0 +1,6 @@
+45	88000	Trainer	 Neil Hill
+48	95000	Trainer	 Hany Rambod
+45	92000	Trainer	 Dennis James
+42	78000	Trainer	 Chris lewis
+54	30000	Cleaner	 Charles Labron
+52	25000	Cleaner	 Brody Tormaso
