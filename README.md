@@ -40,7 +40,7 @@ Also, another aspect to keep in mind is the interface of the program/application
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-           _                             _
+            _                             _
            | |                           | |
          =H| |========mn=======nm========| |H=
            |_|        ( \     / )        |_|
@@ -65,9 +65,9 @@ Also, another aspect to keep in mind is the interface of the program/application
 
 ## Reference Links
 
-[1] Steven S. Skiena. 2008. The Algorithm Design Manual (2nd ed.). Springer.
-[2] Gym Management System. Link: https://www.sundaynotice.com/languages/cplusplus/gymManagementSystem/gymManagementSystem.php .
-[3] John Kleinberg. Aug 2009. Algorithm Design (1st ed.). Pearson.
+[1] Steven S. Skiena. 2008. The Algorithm Design Manual (2nd ed.). Springer. </br>
+[2] Gym Management System. Link: https://www.sundaynotice.com/languages/cplusplus/gymManagementSystem/gymManagementSystem.php . </br>
+[3] John Kleinberg. Aug 2009. Algorithm Design (1st ed.). Pearson. </br>
 
 
 <!-- CONTACT -->
@@ -82,7 +82,7 @@ Project Link: [Flexing Iron Gym](https://github.com/Niveshpai/flexing-iron-gym)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Nivesh Pai](https://github.com/Niveshpai)
+* [Nivesh Pai](https://github.com/Niveshpai) </br>
 * [Sujay Dandgall](https://github.com/Sujay-S-D)
 
 ## License
