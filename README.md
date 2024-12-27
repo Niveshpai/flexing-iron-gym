@@ -73,9 +73,6 @@ Also, another aspect to keep in mind is the interface of the program/application
 <!-- CONTACT -->
 ## Contact
 
-Website - www.niveshpai.tech </br>
-Email - niveshpai123@gmail.com </br> 
-Twitter - [@Niveshpai](https://twitter.com/Niveshpai) </br> 
 Project Link: [Flexing Iron Gym](https://github.com/Niveshpai/flexing-iron-gym)
 
 
